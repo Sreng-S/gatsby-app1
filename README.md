@@ -5,7 +5,7 @@
 
 `yarn` — Fetch dependencies.
 
-`yarn decrypt-fonts` — Decrypt the fonts (required a password), after this **not4everyone.** to manually `unzip` them.
+`yarn decrypt-fonts` — Decrypt the fonts (required a password "not4everyone."), manually `unzip` them.
 
 `yarn start` — Start development server (with hot-reloading, by default at [localhost:8000](http://localhost:8000)).
 
